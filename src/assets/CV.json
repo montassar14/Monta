@@ -1,0 +1,56 @@
+{
+  "profils": [
+    {
+      "nom": "HAMIDI",
+      "prenom": "Johan",
+      "ddn": "1998-10-11",
+      "adresse" : "VILLENEUVE DE MARC",
+      "permis" :  "B",
+      "mail" :  "johan.hamidi@ipilyon.net",
+      "num" : "0625356044"
+    }
+  ],
+  "experiencespro" : [
+    {
+      "nameCompany" : "Talan tunisie",
+      "lieu" : "Charguia1, Tunis",
+      "date" : "from 01/02/2022 to --",
+      "descriptif" : "Software engineer intern : Evolution of the Talan App-store platform"
+    },
+    {
+      "nameCompany" : "Sophia technologies",
+      "lieu" : "El-ghazela city, Tunis",
+      "date" : "from 06/11/2021 to 31/12/2021",
+      "descriptif" : "Embedded artificial intelligence intern : voice command recognition on STM32  "
+    },
+    {
+      "nameCompany" : "UpTech",
+      "lieu" : "northern urban center, Tunis",
+      "date" : "from 28/06/2021 Au 31/08/2021",
+      "descriptif" : "DevOps intern : Implementing CI/CD pipeline for web applications "
+    },
+    {
+      "nameCompany" : "Tunisie Telecom",
+      "lieu" : "Siliana",
+      "date" : "from 01/07/2020 Au 31/07/2020",
+      "descriptif" : "Integration intern to professional life "
+    }
+  ],
+  "formations" : [
+    {
+      "ecole" : "National Engineering School of Tunis ENIT",
+      "formationsName" : "Telecommunications engineering",
+      "anneeEcole" : "from 2019-"
+    },
+    {
+      "ecole" : "Preparatory Institue for Engineering Studies El-manar IPEIEM",
+      "formationsName" : "Preparatory cycle for engineering studies , mathematics and physics",
+      "anneeEcole" : "2017-2019"
+    },
+    {
+      "ecole" : "02 March 1934 school Siliana",
+      "formationsName" : "baccalaureate Mathematics",
+      "anneeEcole" : "2013-2017"
+    }
+  ]
+}
